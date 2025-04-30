@@ -1,0 +1,8 @@
+{
+    "idf.pythonInstallPath": "/opt/homebrew/anaconda3/bin/python3",
+    "files.associations": {
+        "stm32f4xx_hal.h": "c",
+        "iis2iclx_reg.h": "c",
+        "iis2iclx_tilt.h": "c"
+    }
+}

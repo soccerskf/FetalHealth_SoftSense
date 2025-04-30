@@ -1,0 +1,5 @@
+ACC is NOT used for this experiment. 
+
+large speaker, 5V, 2mm thickness sensor, 5 positions:
+
+since belly is held vertical on the table, gravity pulls the belly to a droplet shape, which is similar to the actual shape of pregnant bellies. 5 positions are the top, bottom, left, right, and center of the belly, where center is marked as the original dome. 
