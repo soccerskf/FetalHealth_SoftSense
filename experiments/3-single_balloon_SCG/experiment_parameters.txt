@@ -1,9 +1,0 @@
-literature values used for experiments: 
-
-week 	| heart size 	| stroke volume:  
-~20 wks	| 4mL 		| 0.5mL
-~26 wks	| 10mL		| 2mL
-~30 wks	| 16mL		| 3mL
-~34 wks	| 27mL		| 4mL
-~40 wks	| 40mL		| 10mL
-
